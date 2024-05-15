@@ -12,11 +12,9 @@ Sagar Jaiswal
 
 The application has been deployed using Streamlit:
 
-[Liver Disease Prediction Application](https://group-1-the-phoenix-project-group-1-main-anj10e.streamlit.app/)
+[Liver Disease Prediction Application]
 
-![Image](data/sample1.png)
 
-![Image2](data/sample2.png)
 
 ## How to run 
 
