@@ -7,7 +7,9 @@ Our topic for the project is "Liver Disease Diagnosis/Prediction using machine l
 
 The group members are:
 Shivansh Raghuwanshi
+
 Shreyansh Jain
+
 Sagar Jaiswal
 
 The application has been deployed using Streamlit:
